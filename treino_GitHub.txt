@@ -1,0 +1,1 @@
+esse é um treino de escrita para aprender os comandos do git e realizar desafios.Hello World!!!
